@@ -1,2 +1,3 @@
 # makemore
-makemore
+building makemore
+
